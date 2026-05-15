@@ -118,8 +118,8 @@ background-color: #9775fa;
     justify-content: center;
 }
 .restart img{
-    width:10vw;
-    height: 10vw;
+    width:20vw;
+    height: 15vw;
 }
 @media(min-width:0px) and (max-width:319px){
     html{
